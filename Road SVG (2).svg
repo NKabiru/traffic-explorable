@@ -1,0 +1,26 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430.84 240.15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e6e7e8;
+        stroke-width: 0.5px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke-width: 0.75px;
+        stroke-dasharray: 11.92 11.92;
+      }
+    </style>
+  </defs>
+  <title>Road SVG</title>
+  <g>
+    <path class="cls-1" d="M409.15,120.18H190.85c-58.31,0-106,47.7-106,106v27.6c0,58.32,47.71,106,106,106h218.3c58.31,0,106-47.7,106-106V226.2C515.17,167.88,467.46,120.18,409.15,120.18Zm71.57,129.9a78.84,78.84,0,0,1-78.61,78.61H197.89a78.84,78.84,0,0,1-78.61-78.61V229.92a78.84,78.84,0,0,1,78.61-78.61H402.11a78.84,78.84,0,0,1,78.61,78.61Z" transform="translate(-84.58 -119.93)"/>
+    <rect class="cls-2" x="16.69" y="13.37" width="397.46" height="213.41" rx="100.25"/>
+  </g>
+</svg>
